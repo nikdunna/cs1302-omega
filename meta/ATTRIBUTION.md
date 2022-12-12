@@ -16,3 +16,9 @@ authored by members of your project team.
   - dogchicken. 2012. "Cat Fighter Sprite Sheet"
   - https://opengameart.org/content/cat-fighter-sprite-sheet
   - CC-BY 3.0
+
+* Space Default Photo
+  - 'resources/space.jpg'
+  - Kai Pilger. 2018.
+  - https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfH    x8fGVufDB8fHx8&auto=format&fit=crop&w=2942&q=80
+  - Unsplash License

@@ -52,7 +52,6 @@ public class OpenLibrarySearchApi {
     public static Gson GSON = new GsonBuilder()
         .setPrettyPrinting()                          // enable nice output when printing
         .create();                                    // builds and returns a Gson object
-
     private static final String ENDPOINT = "https://openlibrary.org/search.json";
 
     public static void main(String[] args) {
